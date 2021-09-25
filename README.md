@@ -17,9 +17,9 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
  * The data markers on the map reflects the magnitude of each earthquake by their size and depth of the earthquake is reflected with its color. Earthquakes with higher       magnitudes appears larger and earthquakes with greater depth appears darker in color.
 
- * Create a legend that will provide context for the map data.
+ * Create a legend that will provide context for the map data
  
- ![basic map](https://user-images.githubusercontent.com/81407869/134786872-54dec41b-4510-494f-aacf-1b396f1d222a.png)
+![Screenshot 2021-09-23 085723-with my code](https://user-images.githubusercontent.com/81407869/134787477-bcaa1f77-0bcf-4c9b-9ccc-ee3e27092a01.jpg)
 
 
 ### Level 2: Advanced Visualization
