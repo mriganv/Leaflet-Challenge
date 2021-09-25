@@ -66,7 +66,7 @@ d3.json("https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/
         center: [
         37.09, -95.71
         ],
-        zoom: 5,
+        zoom: 3,
         layers: [satellitemap, graymap, outdoors]
     });
 
@@ -106,7 +106,7 @@ d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojs
 
      // This function determines the radius of the earthquake marker based on its magnitude.
     function getRadiussize(magnitude) {
-     return magnitude * 4;
+     return magnitude * 6;
     }
 
     // add a GeoJSON layer to the map once the file is loaded.
