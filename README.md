@@ -35,4 +35,5 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 * Add buttons to both Level-1 and Level-2 maps to navigate between the basic and advanced visualizations.
 
-![5-Advanced](https://user-images.githubusercontent.com/81407869/134787435-d23883f2-4978-446c-be62-0711d3476ff4.png)
+<img width="383" alt="satellite layer" src="https://user-images.githubusercontent.com/81407869/134794674-9a2f8d0d-ac27-4dff-a928-6add2dcd6f09.png">
+
