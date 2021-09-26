@@ -19,10 +19,11 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
  * Create a legend that will provide context for the map data
  
-![Screenshot 2021-09-23 085723-with my code](https://user-images.githubusercontent.com/81407869/134787477-bcaa1f77-0bcf-4c9b-9ccc-ee3e27092a01.jpg)
+<img width="383" alt="basic map" src="https://user-images.githubusercontent.com/81407869/134794664-b31a015e-7824-4d32-b92e-b9236246bc81.png">
 
 
 ### Level 2: Advanced Visualization
+
 
 * Pulled in a second data set and visualize it alongside your original set of data. 
 
